@@ -12,7 +12,7 @@
 
 :books: I'm internship in web developer with fullstack of PHP and MVC architecture and study ReactJS, NodeJS.
 
-:outbox_tray: 2022 Goals: Leave from my work of telecomunications and get my first job at developer.
+:outbox_tray: 2022 Goals: Leave from my work of telecommunications and get my first job at developer.
 
  
 
